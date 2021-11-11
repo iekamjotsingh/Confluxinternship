@@ -221,9 +221,6 @@ body{
     .child-benefits-div{
         padding:10px;
     }
-    .hero-wrapper{
-        height: 60vh;
-    }
     .hero-wrapper .container .flex-div .right-container img{
         display: none;
     }
